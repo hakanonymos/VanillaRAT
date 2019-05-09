@@ -9,7 +9,7 @@ password = hakanonymos@hotmail.com
  # Youtube video  
  https://www.youtube.com/watch?v=AInNzwY76wY&feature=youtu.be
  
-# OFficial Projet
+# Official Projet
 
 
 https://github.com/DannyTheSloth/VanillaRAT
