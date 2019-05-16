@@ -7,7 +7,7 @@ password = hakanonymos@hotmail.com
  
  
  # Youtube video  
- https://www.youtube.com/watch?v=AInNzwY76wY&feature=youtu.be
+http://bit.ly/2LKtumC
  
 # Official Projet
 
